@@ -11,3 +11,7 @@ group :development do
   gem "jeweler" 
   gem "simplecov"
 end
+
+group :test do
+  gem "test-unit"
+end
